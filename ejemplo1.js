@@ -46,7 +46,7 @@ getBookNames(){
     });
 }
 
-let  usuario = new usuario('Laura', 'Bermudez',{"100 años de soledad","Gabo"},'gato')
+let  usuario = new usuario('Laura', 'Bermudez',{nombre:"100 años de soledad",autor:"Gabo"},'gato')
 
 
 
